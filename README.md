@@ -1,5 +1,5 @@
 # A-B-testing
-this testing is done without using hypothesis. if you see the code file you will get to know only using visuals and plots are use in this testing .
+This project is done on two marketing campaigns 
 this testing is done on basis of Control campaign and Test campaign.
 Initially,  i have two dataset files control data and test data. 
 Data preparation : we given the new column names to column in both data files and checked the null values in both dataset. 
